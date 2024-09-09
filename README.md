@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI Computer Vision , NLP ,ROBOTICS
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on Robotics Companies
-- 📫 How to reach me srinivas.reddy.drdo@gmail.com srinivasulureddydadireddy@gamil.com
+- 📫 How to reach me srinivas.reddy.drdo@gmail.com
 - 😄 Pronouns: Srinivas
 - ⚡ Fun fact: Computer Vision Facial recognization
 
